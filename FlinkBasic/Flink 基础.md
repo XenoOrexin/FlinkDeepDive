@@ -3,7 +3,7 @@
 
 下图是基本的 Flink 分层 API: 
 
-![[Flink'sApis.png]]
+![Flink's Apis](assets/Flink'sApis.png)
 
 
 
