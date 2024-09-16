@@ -11,8 +11,12 @@
             "id": "917f56d718cab6ae",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "FlinkBasic/Flink 基础.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "FlinkBasic/Flink 基础.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "FlinkBasic/Flink 基础.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "FlinkBasic/Flink 基础.md"
+              }
             }
           },
           {
@@ -148,5 +156,11 @@
     }
   },
   "active": "98b2dbeb0e1594f4",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "FlinkBasic/assets/Flink'sApis.png",
+    "FlinkBasic/assets/Pasted image 20240916160920.png",
+    "FlinkBasic/README.md",
+    "FlinkBasic/Flink 基础.md",
+    "FlinkBasic/assets"
+  ]
 }
